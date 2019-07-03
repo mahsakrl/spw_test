@@ -28,7 +28,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ### check design of it on following pages
-``` 
 See [Dribble](https://dribbble.com/shots/5958749-Specify-Website).
 See [website](https://specifyapp.com/).
-```
+
